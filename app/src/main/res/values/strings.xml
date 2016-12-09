@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">一图</string>
+    <string name="fail">加载失败...</string>
+</resources>
